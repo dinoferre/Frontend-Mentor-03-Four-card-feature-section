@@ -14,7 +14,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Author
 - Website - Dino Ferre https://github.com/dinoferre/
-- Frontend Mentor - [@dinoferre] https://www.frontendmentor.io/profile/dinoferre 
+- Frontend Mentor - @dinoferre https://www.frontendmentor.io/profile/dinoferre 
 
 ## Acknowledgments
 Thx CodingTube 💖
